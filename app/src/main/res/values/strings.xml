@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Exercise1</string>
+    <string name="ed_hint">Type your message here...</string>
+    <string name="activity">Activity</string>
+    <string name="email">Email</string>
 </resources>
